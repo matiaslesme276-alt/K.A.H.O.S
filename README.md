@@ -1,3 +1,18 @@
 # K.A.H.O.S
-UNA APP WED QUE ESTOY CONTRYENDO DE APOCO NO ES LA GRAN COSA PERO YA FUNCIONA ES TIPO UN JARVIS PEOR SU NOMBRE ES KAHOS PUEDE HACER MUCHAS COSAS Y AQUI LES DEJO TODO SI QUIEREN PUDEN AGREGAR MAS COSAS Y CAMBIARLE SUS FUNCIONABILIDAD OSEA HAGAN LO QUE QUIERAN CON EL YO DEJO POR AQUI VOY A SUBIRLO ASI COMO LO TENGO YO SOLO TIENEN QUE CAMBIAR EL NOMBRE PORQ AL ABRIRSE LES VA A DECIR SEÑOR MATIAS TAMBIEN PONGAN EL API KEY DE GEMINI SI QUIEREN CAMBIEN EL MODELO EL QUE TIENE AHORA ES EL 3.6 Y ESO ES TODO LO ESTARE AUTUALIZANDO MAS ESTO ME TOMO COMO 3 MESES EN HACER LO NO ES LA GRAN COSAA PERO SIRVE Y QUIEREN ECHARME UNA MAMO Y AGREGARLE MAS COSAS TAMBIEN PARA QUE SIGA EVOLUCIONANDO A MI ME COSTO UN POCO EN HACERLO PERO LO LOGRE
+🤖 KAHOS - Tu Asistente Personal
+¡Hola! Este es un proyecto en el que he estado trabajando poco a poco durante los últimos tres meses. No es la gran cosa todavía, pero ya cumple con su función principal y está completamente operativo.
+
+He decidido compartirlo con la comunidad. Si quieres usarlo, mejorarlo, agregarle nuevas funciones o cambiarle el enfoque por completo, ¡siempre será bienvenido! Siente la libertad de hacer lo que quieras con el código.
+
+🚀 Cómo empezar
+Clona o descarga el repositorio tal como está.
+
+Configura tu API Key: Asegúrate de colocar tu propia clave de API de Gemini en el archivo de configuración o entorno. (Nota: Actualmente utiliza el modelo Gemini 3.6, pero puedes cambiarlo al que prefieras).
+
+Personaliza el saludo: Al iniciar, el asistente te saludará diciendo "Señor Matías". Si quieres cambiarlo a tu nombre o personalizarlo por completo, puedes modificarlo fácilmente en el código fuente.
+
+🤝 ¡Únete y colabora!
+Me ha costado un poco de trabajo llegar hasta aquí, pero valió totalmente la pena. Si quieres echarme una mano, proponer ideas, optimizar funciones o agregarle nuevas habilidades para que KAHOS siga evolucionando, ¡haz un pull request o abre un issue!
+
+Todo aporte suma para llevar este proyecto al siguiente nivel. 🛠️✨
 
